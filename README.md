@@ -57,7 +57,6 @@ TrabalhoEDA/
 │   ├── figures/                   # Arquivos PNG com os gráficos
 │   └── report/                    # Relatório final
 │   └── eda_report.pdf             # Relatório final em PDF (se gerado)
->>>>>>> 4d8c6dc (Atualiza README e .gitignore do projeto EDA)
 │
 ├── requirements.txt               # Lista de dependências Python do projeto
 └── README.md                      # Este arquivo
