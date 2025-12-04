@@ -1,0 +1,15 @@
+# Ignorar ambiente virtual
+.venv/
+venv/
+
+# Ignorar cache e configurações da IDE
+.idea/
+__pycache__/
+CACHE_DIR.TAG
+*.log
+*.tmp
+
+# Ignorar outputs grandes se não quiser enviar
+outputs/figures/*
+outputs/tables/*
+outputs/report/*
