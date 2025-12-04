@@ -55,7 +55,7 @@ TrabalhoEDA/
 │
 ├── outputs/                       # (Opcional) Artefatos gerados pela análise
 │   ├── figures/                   # Arquivos PNG com os gráficos
-│   └── eda_report.pdf             # Relatório final em PDF (se gerado)
+│   └── report/                    # Relatório final
 │
 ├── requirements.txt               # Lista de dependências Python do projeto
 └── README.md                      # Este arquivo
