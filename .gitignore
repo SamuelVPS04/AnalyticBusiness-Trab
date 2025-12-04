@@ -8,8 +8,3 @@ __pycache__/
 CACHE_DIR.TAG
 *.log
 *.tmp
-
-# Ignorar outputs grandes se não quiser enviar
-outputs/figures/*
-outputs/tables/*
-outputs/report/*
